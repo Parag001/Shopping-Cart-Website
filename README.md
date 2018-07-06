@@ -1,7 +1,7 @@
-Static Shopping Cart Using JSP and SERVLET
+#Static Shopping Cart Using JSP and SERVLET
 
 
-Installation:-
+###Installation:-
 -Java7 should installed on PC
 -Install Mysql/Oracle
 -Configure its admin username and password
