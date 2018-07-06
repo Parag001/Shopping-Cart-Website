@@ -1,0 +1,11 @@
+Create table register(id int primary key,name varchar(20),pwd varchar(20),email varchar(20),phone varchar(20),remarks varchar(20) );
+
+Create sequence req_seq start with 1 increment by 1;
+
+create table products(pid int primary key,product_name varchar(20),model varchar(20),description varchar(20),price int);
+
+insert products using insert query(MANUALLY)
+
+Create table cart (cid int primary key,username varchar(20),product_name varchar(20),qty price int);
+
+Create sequence cart_seq1 start with 1 increment by 1;
